@@ -1,4 +1,4 @@
-# End-to-end-Medical-Chatbot-Generative-AI
+# LLM-Powered-Medical-Chatbot
 
 
 # How to run?
